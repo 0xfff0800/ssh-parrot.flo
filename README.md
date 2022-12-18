@@ -8,7 +8,7 @@
 ![Test](https://img.shields.io/badge/test-%E2%9C%94%2078%20%7C%20%E2%9C%98%200-brightgreen)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-## </a><br />Want to order a server ssh or rdp , contact our store <a rel="license" href="https://salla.sa/flaah999/">0x FaLaH</a>
+## </a><br />Want to order a server ssh or rdp , contact our store <a rel="license" href="https://bye-thost.com/product/%d8%ae%d8%a7%d8%af%d9%85-parrot-flo/">ByE ThoST</a>
 
 Usage of ssh parrot.flo for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
